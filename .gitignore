@@ -1,0 +1,10 @@
+site/
+.idea/
+.venv/
+__pycache__/
+.env
+*.key
+*.pem
+*.tar.gz
+*.bak
+*.log
